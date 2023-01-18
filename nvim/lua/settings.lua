@@ -1,0 +1,17 @@
+vim.cmd [[colorscheme onedark]]
+vim.opt.hlsearch = true
+vim.wo.number = true
+vim.opt.mouse = 'a'
+vim.opt.breakindent = true
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
+vim.opt.title = true
+vim.opt.autoindent = true
+vim.opt.showcmd = true
+vim.opt.cmdheight = 1
+vim.opt.laststatus = 2
+vim.opt.expandtab = true
+vim.opt.shiftwidth = 2
+vim.opt.tabstop = 2
+vim.opt.cursorline = true 
+vim.opt.termguicolors = true 
